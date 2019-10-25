@@ -1,2 +1,3 @@
 # Coap-P2P-Implementation
-A project involving Arduino UNO and the ESP8266-01 module for implementing an example of peer-to peer communication between microcontrollers
+A project example involving Arduino UNO and the ESP8266-01 Wi-FI module for implementing an example of peer-to-peer communication between microcontrollers.
+A more detailed description and code will be provided soon...
