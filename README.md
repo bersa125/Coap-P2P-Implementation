@@ -5,6 +5,7 @@ Notice that the voltage for the ESP8266 is about 3.3V on its working pins (more 
 ![][main]
 ## Circuit configuration for uploading the sketch ESP8266 using the Arduino UNO board
 [Here](https://www.hackster.io/ROBINTHOMAS/programming-esp8266-esp-01-with-arduino-011389) you can find a short guide on how upload the sketch directly from the Arduino IDE while being connected to the Arduino UNO board.
+
 ![][circuit]
 
 [main]: https://raw.githubusercontent.com/bersa125/Coap-P2P-Implementation/master/img/circuit_main.png
